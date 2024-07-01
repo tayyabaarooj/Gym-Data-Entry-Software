@@ -19,8 +19,11 @@ Programming Language: Python
 
 GUI Framework: PyQt5
 
+
 Database: SQLite
 
 Offline Functionality: Operates completely offline, making it ideal for environments without consistent internet access.
 
 Cross-Platform Compatibility: Can be packaged and run on Windows, macOS, and Linux systems.
+![image](https://github.com/tayyabaarooj/Gym-Data-Entry-Software/assets/106014900/172f660c-ae66-460e-a077-e10dbc5b1efc)
+![Screenshot (1458)](https://github.com/tayyabaarooj/Gym-Data-Entry-Software/assets/106014900/11ce8b2b-e0a1-4d93-869f-d4a2d5d47c7e)
